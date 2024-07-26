@@ -1,0 +1,15 @@
+C1,purchase,Basic Package,Success
+C2,purchase,Premium Package,Success
+C3,purchase,Standard Package,Success
+C1,usage,S1 x5,Success
+C1,usage,S2 x3,Success
+C1,usage,S3 x1,Success
+C2,usage,S1 x10,Success
+C2,usage,S3 x1,Success
+C3,usage,S1 x20,Success
+C3,usage,S2 x10,Success
+C3,usage,S3 x5,Success
+Customer Credits:
+C3 has 195 credits remaining.
+C1 has 86 credits remaining.
+C2 has 487 credits remaining.
